@@ -1,0 +1,21 @@
+p {
+  color: red;
+}
+h1 {
+  color: #0500ff;
+}
+.container {
+  background-color: teal;
+  display: flex;
+}
+.childbox {
+  border: 2px solid blue;
+  flex: 1;
+  padding: 10px;
+}
+.box1 {
+  background-color: rgb(160, 199, 20);
+}
+.box2 {
+  background-color: violet;
+}
